@@ -18,9 +18,9 @@
 * 🔧 Strong hands-on experience with **Angular, React.js, TypeScript, Node.js, REST APIs, Azure & KQL**
 * 📈 Solved **700+ coding problems** across competitive programming platforms
 * 💬 Ask me about **Angular, React, TypeScript, JavaScript, APIs, Azure, KQL & DSA**
-* 🌐 Portfolio: [Portfolio Website](https://riyaportfolio.onrender.com/)
+* 🌐 Portfolio: [Portfolio Website](https://portfolio-riya.onrender.com/)
 * 📫 Reach me at: **[sharmariya11133@gmail.com](mailto:sharmariya11133@gmail.com)**
-* 📄 [View My Resume](https://drive.google.com/file/d/1GS9OIZ3QsgWzPFml__t8m4OyV-geFWVz/view?usp=sharing)
+* 📄 [View My Resume](https://drive.google.com/file/d/1L92sJEJ1M-DPz5HHViE_GRFcLfj72_yb/view?usp=sharing)
 
 ---
 
