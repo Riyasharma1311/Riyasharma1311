@@ -12,15 +12,15 @@
 
 * 🎓 B.Tech in Information Technology @ **Maharaja Surajmal Institute of Technology (2022–2026)**
 * 📊 Current SGPA: **9.2/10**
-* 💻 Software Engineer Trainee @ **DecisionsLab**
+* 💻 Site Reliability Engineer @ **UnifyApps**
 * 🚀 Experienced in building **full-stack applications, enterprise features, document-generation pipelines, and production systems**
 * 🧠 Currently exploring **Cloud, Azure, DevOps & SRE**
 * 🔧 Strong hands-on experience with **Angular, React.js, TypeScript, Node.js, REST APIs, Azure & KQL**
-* 📈 Solved **600+ coding problems** across competitive programming platforms
+* 📈 Solved **700+ coding problems** across competitive programming platforms
 * 💬 Ask me about **Angular, React, TypeScript, JavaScript, APIs, Azure, KQL & DSA**
 * 🌐 Portfolio: [Portfolio Website](https://riyaportfolio.onrender.com/)
 * 📫 Reach me at: **[sharmariya11133@gmail.com](mailto:sharmariya11133@gmail.com)**
-* 📄 [View My Resume](https://drive.google.com/file/d/1USsQ8QYEBr6sPIAnOlcxHwIw7tWsvHoO/view?usp=drive_link)
+* 📄 [View My Resume](https://drive.google.com/file/d/1GS9OIZ3QsgWzPFml__t8m4OyV-geFWVz/view?usp=sharing)
 
 ---
 
@@ -121,7 +121,7 @@
 * 🥇 **3× Gold Medalist** — Highest GPA in the 2nd, 5th and 8th semesters
 * 🏆 **SRM4.0 Hackathon Finalist**
 * 🚀 Participated in **10+ hackathons**, including national-level competitions
-* 💻 **600+ coding problems** solved across competitive programming platforms
+* 💻 **700+ coding problems** solved across competitive programming platforms
 * ⭐ **5-star HackerRank ratings** in C++, SQL and DSA
 * 👩‍💻 Contributed to the **IEEE MSIT Web Development Committee**
 * 💡 Contributed to the **E-Cell MSIT Technical Team**
@@ -198,7 +198,7 @@ const riya = {
         "Cloud Engineering",
         "Site Reliability Engineering"
     ],
-    codingProblemsSolved: "600+",
+    codingProblemsSolved: "700+",
     motto: "Build. Learn. Improve. Repeat."
 };
 ```
